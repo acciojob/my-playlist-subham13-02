@@ -1,13 +1,23 @@
 
-/* .main{
+.main{
 	background-color:#cccccc;
 }
 .player_one{
-	background-color:#;
+	background-color:rgb(255, 255, 255);
+	
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+li{
+	list-style-type:none;
 }
 .player_two{
-	
-} */
-*{
+	background-color:rgb(255, 255, 255);
+}
+main{
 	background-color:#cccccc;
+	
+	text-align:center;
 }
